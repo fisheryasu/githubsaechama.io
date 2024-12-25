@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fisheryasu.github.io/githubsaechama.io/sitemap.xml
